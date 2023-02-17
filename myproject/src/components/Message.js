@@ -4,3 +4,5 @@ class Message extends Component {
         return <h1>This is an example of a class component</h1>;
     }
 }
+
+export default Message;
