@@ -11,7 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is my react project to show case my skills.
-          Good Luck!
+          Lets Go!
         </p>
         <a
           className="App-link"
