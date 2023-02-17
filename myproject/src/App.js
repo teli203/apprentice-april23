@@ -1,14 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import Greeting from './components/Greeting'
+import Greeting from './components/Greeting';
+import Message from './components/Message';
 function App() {
   return (
     <div className="App">
       <Greeting/>
+      <Message/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my react project to show case my skills!
+          This is my react project to show case my skills.
+          Good Luck!
         </p>
         <a
           className="App-link"
