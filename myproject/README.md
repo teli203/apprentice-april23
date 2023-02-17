@@ -1,2 +1,2 @@
 This is the beginning stages of a react app to show case a minimum amount of code with a programming language of my choice.
-I decided on React because of a few reason. It isolated debugging capabilities. It's used for most mobile apps, and web platforms. As a developer, coding in React makes you better at JavaScript which is a language used by 90% of web development today.
+I decided on React because of a few reason. Its isolated debugging capabilities. It's used for most mobile apps, and web platforms. As a developer, coding in React makes you better at JavaScript which is a language used by 90% of web development today.
